@@ -1,6 +1,60 @@
 # Hand-Object Interaction Paper List
 
-# Paper List for 2025.2
+# Paper List for 2025.1-2025.2
+[25/2/4]Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation
+
+[25/2/4]Can You Move These Over There? An LLM-based VR Mover for Supporting Object Manipulation
+
+[25/2/1]RoboGrasp: A Universal Grasping Policy for Robust Robotic Control
+
+[25/2/1]Dexterous Cable Manipulation: Taxonomy, Multi-Fingered Hand Design, and Long-Horizon Manipulation
+
+[25/2/1]Shape from Semantics: 3D Shape Generation from Multi-View Semantics
+
+[25/1/31]SampleLLM: Optimizing Tabular Data Synthesis in Recommendations
+
+[25/1/29]Synthesizing Grasps and Regrasps for Complex Manipulation Tasks
+
+[25/1/29]Hand-Object Contact Detection using Grasp Quality Metrics
+
+[25/1/23]You Only Teach Once: Learn One-Shot Bimanual Robotic Manipulation from Video Demonstrations
+
+[25/1/3]TexHOI: Reconstructing Textures of 3D Unknown Objects in Monocular Hand-Object Interaction Scenes
+
+[AAAI’25]Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics
+
+[AAAI’25]Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model
+
+[AAAI’25]RAGG: Retrieval-Augmented Grasp Generation Model
+
+[AAAI’25]Single-view Image to Novel-view Generation for Hand Object Interactions
+
+[AAAI’25]Hand1000: Generating Realistic Hands from Text with Only 1,000 Images
+
+[AAAI’25]HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models
+
+[AAAI’25]QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects
+
+[AAAI’25]HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation
+
+[AAAI’25]RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance
+
+[AAAI’25]GraSP: Simple yet Effective Graph Similarity Predictions
+
+[AAAI’25]IDseq: Decoupled and Sequentially Detecting and Grounding Multi-modal Media Manipulation
+
+[AAAI’25]GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization
+
+[AAAI’25]Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing
+
+[AAAI’25]PoseLLaVA: Pose Centric Multimodal LLM for Fine-Grained 3D Pose Manipulation
+
+[ICRA’25]MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress
+
+[ICRA’25]Towards Autonomous Wood-Log Grasping with a Forestry Crane: Simulator and Benchmarking
+
+[ICRA’25]Online Trajectory Replanner for Dynamically Grasping Irregular Objects
+
 
 # Paper List for Accept Papers IN 2024&2025
 [AAAI’25]Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model
