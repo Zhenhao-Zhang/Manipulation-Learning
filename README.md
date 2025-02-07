@@ -21,37 +21,37 @@
 
 [25/1/3]TexHOI: Reconstructing Textures of 3D Unknown Objects in Monocular Hand-Object Interaction Scenes
 
-[AAAI’25]Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics[paper](https://arxiv.org/abs/2501.07100)
+[AAAI’25]Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics[[paper]](https://arxiv.org/abs/2501.07100)
 
-[AAAI’25]Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model[paper](https://www.arxiv.org/abs/2412.20657)
+[AAAI’25]Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model[[paper]](https://www.arxiv.org/abs/2412.20657)
 
 [AAAI’25]RAGG: Retrieval-Augmented Grasp Generation Model
 
 [AAAI’25]Single-view Image to Novel-view Generation for Hand Object Interactions
 
-[AAAI’25]Hand1000: Generating Realistic Hands from Text with Only 1,000 Images[paper](https://arxiv.org/abs/2408.15461)
+[AAAI’25]Hand1000: Generating Realistic Hands from Text with Only 1,000 Images[[paper]](https://arxiv.org/abs/2408.15461)
 
-[AAAI’25]HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models[paper](https://arxiv.org/abs/2312.04867)
+[AAAI’25]HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models[[paper]](https://arxiv.org/abs/2312.04867)
 
 [AAAI’25]QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects[code](https://github.com/kcsayem/QORT-Former)
 
-[AAAI’25]HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation[paper](https://arxiv.org/abs/2501.02845)
+[AAAI’25]HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation[[paper]](https://arxiv.org/abs/2501.02845)
 
-[AAAI’25]RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance[paper](https://arxiv.org/abs/2404.13984)
+[AAAI’25]RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance[[paper]](https://arxiv.org/abs/2404.13984)
 
 [AAAI’25]IDseq: Decoupled and Sequentially Detecting and Grounding Multi-modal Media Manipulation
 
 [AAAI’25]PoseLLaVA: Pose Centric Multimodal LLM for Fine-Grained 3D Pose Manipulation
 
-[ICLR'25 8866]Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions? 
+[ICLR'25 8866]Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions?[[paper]](https://openreview.net/pdf?id=M8gXSFGkn2)
 
-[ICLR'25 866]Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild
+[ICLR'25 866]Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild[[paper]](https://arxiv.org/abs/2409.09714)
 
-[ICLR'25 8666]PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance
+[ICLR'25 8666]PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance[[[paper]]](https://arxiv.org/abs/2406.09326)
 
-[ICLR'25 8666]Generation and Comprehension Hand-in-Hand: Vision-guided Expression Diffusion for Boosting Referring Expression Generation and Comprehension
+[ICLR'25 8666]Generation and Comprehension Hand-in-Hand: Vision-guided Expression Diffusion for Boosting Referring Expression Generation and Comprehension[[paper]](https://openreview.net/pdf?id=1qbZekXGrp)
 
-[ICLR'25 666]DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image
+[ICLR'25 666]DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image[[paper]](https://arxiv.org/abs/2406.17988)
 
 [ICLR'25 6666]Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning
 
