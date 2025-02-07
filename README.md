@@ -55,21 +55,13 @@
 
 [ICLR'25 666]DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image[[paper]](https://arxiv.org/abs/2406.17988)
 
-[ICLR'25 6666]Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning
+[ICLR'25 6666]Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning[[paper]](https://openreview.net/forum?id=P6G1Z6jkf3)
 
-[ICLR'25 8866]Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping
+[ICLR'25 8888]Data Scaling Laws in Imitation Learning for Robotic Manipulation[[paper]](https://arxiv.org/abs/2410.18647)
 
-[ICLR'25 8888]Data Scaling Laws in Imitation Learning for Robotic Manipulation
+[ICLR'25 8665]EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation[[paper]](https://arxiv.org/abs/2412.18907)
 
-[ICLR'25 8886]Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation
-
-[ICLR'25 10 866]DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from One Demo
-
-[ICLR'25 8866]RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation
-
-[ICLR'25 8665]EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation
-
-[ICLR'25 6666]GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation
+[ICLR'25 6666]GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation[[paper]](https://arxiv.org/abs/2409.20154)
 
 # Paper List for Accept Papers IN 2024
 [NeurIPS’24]HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness
