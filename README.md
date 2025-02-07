@@ -21,17 +21,17 @@
 
 [25/1/3]TexHOI: Reconstructing Textures of 3D Unknown Objects in Monocular Hand-Object Interaction Scenes
 
-[AAAI’25]Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics
+[AAAI’25]Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics[paper](https://arxiv.org/abs/2501.07100)
 
-[AAAI’25]Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model
+[AAAI’25]Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model[paper](https://www.arxiv.org/abs/2412.20657)
 
 [AAAI’25]RAGG: Retrieval-Augmented Grasp Generation Model
 
 [AAAI’25]Single-view Image to Novel-view Generation for Hand Object Interactions
 
-[AAAI’25]Hand1000: Generating Realistic Hands from Text with Only 1,000 Images
+[AAAI’25]Hand1000: Generating Realistic Hands from Text with Only 1,000 Images[paper](https://arxiv.org/abs/2408.15461)
 
-[AAAI’25]HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models
+[AAAI’25]HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models[paper](https://arxiv.org/abs/2312.04867)
 
 [AAAI’25]QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects
 
