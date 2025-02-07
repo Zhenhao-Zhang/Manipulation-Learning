@@ -33,41 +33,43 @@
 
 [AAAI’25]HandDiffuse: Generative Controllers for Two-Hand Interactions via Diffusion Models[paper](https://arxiv.org/abs/2312.04867)
 
-[AAAI’25]QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects
+[AAAI’25]QORT-Former: Query-optimized Real-time Transformer for Understanding Two Hands Manipulating Objects[code](https://github.com/kcsayem/QORT-Former)
 
-[AAAI’25]HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation
+[AAAI’25]HOGSA: Bimanual Hand-Object Interaction Understanding with 3D Gaussian Splatting Based Data Augmentation[paper](https://arxiv.org/abs/2501.02845)
 
-[AAAI’25]RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance
-
-[AAAI’25]GraSP: Simple yet Effective Graph Similarity Predictions
+[AAAI’25]RHanDS: Refining Malformed Hands for Generated Images with Decoupled Structure and Style Guidance[paper](https://arxiv.org/abs/2404.13984)
 
 [AAAI’25]IDseq: Decoupled and Sequentially Detecting and Grounding Multi-modal Media Manipulation
 
-[AAAI’25]GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization
-
-[AAAI’25]Move and Act: Enhanced Object Manipulation and Background Integrity for Image Editing
-
 [AAAI’25]PoseLLaVA: Pose Centric Multimodal LLM for Fine-Grained 3D Pose Manipulation
 
-[ICRA’25]MuST: Multi-Head Skill Transformer for Long-Horizon Dexterous Manipulation with Skill Progress
+[ICLR'25 8866]Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions? 
 
-[ICRA’25]Towards Autonomous Wood-Log Grasping with a Forestry Crane: Simulator and Benchmarking
+[ICLR'25 866]Pre-Training for 3D Hand Pose Estimation with Contrastive Learning on Large-Scale Hand Images in the Wild
 
-[ICRA’25]Online Trajectory Replanner for Dynamically Grasping Irregular Objects
+[ICLR'25 8666]PianoMotion10M: Dataset and Benchmark for Hand Motion Generation in Piano Performance
 
+[ICLR'25 8666]Generation and Comprehension Hand-in-Hand: Vision-guided Expression Diffusion for Boosting Referring Expression Generation and Comprehension
+
+[ICLR'25 666]DICE: End-to-end Deformation Capture of Hand-Face Interactions from a Single Image
+
+[ICLR'25 6666]Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning
+
+[ICLR'25 8866]Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping
+
+[ICLR'25 8888]Data Scaling Laws in Imitation Learning for Robotic Manipulation
+
+[ICLR'25 8886]Predictive Inverse Dynamics Models are Scalable Learners for Robotic Manipulation
+
+[ICLR'25 10 866]DenseMatcher: Learning 3D Semantic Correspondence for Category-Level Manipulation from One Demo
+
+[ICLR'25 8866]RDT-1B: a Diffusion Foundation Model for Bimanual Manipulation
+
+[ICLR'25 8665]EC-Diffuser: Multi-Object Manipulation via Entity-Centric Behavior Generation
+
+[ICLR'25 6666]GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation
 
 # Paper List for Accept Papers IN 2024&2025
-
-[ICLR’25]Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions?  8 8 6 6
-
-[ICLR’25]Efficient Residual Learning with Mixture-of-Experts for Universal Dexterous Grasping 8 8 6 6
-
-[ICLR’25]BiAssemble: Learning Collaborative Affordance for Bimanual Geometric Assembly 8 6 6 6
-
-[ICLR’25]Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning  6 6 6 6
-
-[ICLR’25]HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction  8 6 5*
-
 [NeurIPS’24]HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness
 
 [NeurIPS’24]Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba
