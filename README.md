@@ -57,7 +57,6 @@
 
 
 # Paper List for Accept Papers IN 2024&2025
-[AAAI’25]Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model
 
 [ICLR’25]Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions?  8 8 6 6
 
