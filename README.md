@@ -21,6 +21,8 @@
 
 [25/1/3]TexHOI: Reconstructing Textures of 3D Unknown Objects in Monocular Hand-Object Interaction Scenes
 
+[25/1/1]DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models
+
 [AAAI’25]Collaborative Learning for 3D Hand-Object Reconstruction and Compositional Action Recognition from Egocentric RGB Videos Using Superquadrics[[paper]](https://arxiv.org/abs/2501.07100)
 
 [AAAI’25]Diffgrasp: Whole-Body Grasping Synthesis Guided by Object Motion Using a Diffusion Model[[paper]](https://www.arxiv.org/abs/2412.20657)
@@ -69,7 +71,7 @@
 
 [ICLR'25 6666]GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation
 
-# Paper List for Accept Papers IN 2024&2025
+# Paper List for Accept Papers IN 2024
 [NeurIPS’24]HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness
 
 [NeurIPS’24]Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba
@@ -139,8 +141,7 @@
 [RAL’24-12]Bimanual Grasp Synthesis for Dexterous Robot Hands
 
 
-# Paper List for Arxiv IN 2024.7-2025.1
-[25/1/1]Sketch-MoMa: Teleoperation for Mobile Manipulator via Interpretation of Hand-Drawn Sketches
+# Paper List for Arxiv IN 2024.7-2024.12
 
 [24/12/28]SyncDiff: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis
 
@@ -194,7 +195,7 @@
 
 [24/6/27]Core4d: A 4d human-object-human interaction dataset for collaborative object rearrangement
 
-# Affordance Paper List for Accept Papers IN 2024&2025
+# Affordance Paper List for Accept Papers IN 2024
 [RSS’24]HRP: Human Affordances for Robotic Pre-Training
 
 [ECCV’24]Text2Place: Affordance-aware Text Guided Human Placement
@@ -211,9 +212,7 @@
 
 [NeurIPS’24]GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance
 
-# Affordance Paper List for ARXIV IN 2024.7-2025.1
-[ARXIV’25/1]DAViD: Modeling Dynamic Affordance of 3D Objects using Pre-trained Video Diffusion Models
-
+# Affordance Paper List for ARXIV IN 2024.7-2024.12
 [ARXIV’24/12]Improving Vision-Language-Action Models via Chain-of-Affordance
 
 [ARXIV’24/12]Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion
