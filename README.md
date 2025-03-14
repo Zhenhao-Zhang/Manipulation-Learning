@@ -1,5 +1,30 @@
 # Hand-Object Interaction Paper List
 
+# Paper List for CVPR2025
+[CVPR’25]GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities
+
+[CVPR’25]Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model
+
+[CVPR’25]ManiVideo: Generating Hand-Object Manipulation Video with Dexterous and Generalizable Grasping
+
+[CVPR’25]Roger: Advancing Video Generation of Task-Oriented Hand-Object Interaction for Generalizable Robotic Manipulation
+
+[CVPR’25]DexGrasp Anything: Towards Universal Robotic Dexterous Grasping with Physics Awareness
+
+[CVPR’25]ZeroGrasp: Zero-Shot Shape Reconstruction Enabled Robotic Grasping
+
+[CVPR’25]Learning Physics-Based Full-Body Human Reaching and Grasping from Brief Walking References
+
+[CVPR’25]UniGraspTransformer: Simplified Policy Distillation for Scalable Dexterous Robotic Grasping
+
+[CVPR’25]LatentHOI: On the Generalizable Hand Object Motion Generation with Latent Hand Diffusion
+
+[CVPR’25]How Do I Do That? Synthesizing 3D Hand Motion and Contacts for Everyday Interactions
+
+[CVPR’25]Pose-Guided Temporal Enhancement for Robust Low-Resolution Hand Reconstruction
+
+[CVPR’25]HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models
+
 # Paper List for 2025.1-2025.2
 [25/2/4]Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation
 
