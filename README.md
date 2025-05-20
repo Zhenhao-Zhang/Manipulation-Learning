@@ -1,6 +1,10 @@
+# Manipulation Learning
+
+I focus on the topics in Manipulation,such as hand/human-object interaction,affordance,robot manipulation and else interesting.
+
 # Hand-Object Interaction Paper List
 
-# Paper List for CVPR2025
+## Paper List for CVPR2025
 [CVPR’25]GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities
 
 [CVPR’25]Re-HOLD: Video Hand Object Interaction Reenactment via adaptive Layout-instructed Diffusion Model
@@ -25,7 +29,7 @@
 
 [CVPR’25]HOIGPT: Learning Long Sequence Hand-Object Interaction with Language Models
 
-# Paper List for 2025.1-2025.2
+## Paper List for 2025.1-2025.2
 [25/2/4]Diff9D: Diffusion-Based Domain-Generalized Category-Level 9-DoF Object Pose Estimation
 
 [25/2/4]Can You Move These Over There? An LLM-based VR Mover for Supporting Object Manipulation
@@ -88,7 +92,7 @@
 
 [ICLR'25 6666]GravMAD: Grounded Spatial Value Maps Guided Action Diffusion for Generalized 3D Manipulation[[paper]](https://arxiv.org/abs/2409.20154)
 
-# Paper List for Accept Papers IN 2024
+## Paper List for Accept Papers IN 2024
 [NeurIPS’24]HOI-Swap: Swapping Objects in Videos with Hand-Object Interaction Awareness
 
 [NeurIPS’24]Hamba: Single-view 3D Hand Reconstruction with Graph-guided Bi-Scanning Mamba
@@ -158,7 +162,7 @@
 [RAL’24-12]Bimanual Grasp Synthesis for Dexterous Robot Hands
 
 
-# Paper List for Arxiv IN 2024.7-2024.12
+## Paper List for Arxiv IN 2024.7-2024.12
 
 [24/12/28]SyncDiff: Synchronized Motion Diffusion for Multi-Body Human-Object Interaction Synthesis
 
@@ -212,7 +216,7 @@
 
 [24/6/27]Core4d: A 4d human-object-human interaction dataset for collaborative object rearrangement
 
-# Affordance Paper List for Accept Papers IN 2024
+## Affordance Paper List for Accept Papers IN 2024
 [RSS’24]HRP: Human Affordances for Robotic Pre-Training
 
 [ECCV’24]Text2Place: Affordance-aware Text Guided Human Placement
@@ -229,7 +233,7 @@
 
 [NeurIPS’24]GAMap: Zero-Shot Object Goal Navigation with Multi-Scale Geometric-Affordance Guidance
 
-# Affordance Paper List for ARXIV IN 2024.7-2024.12
+## Affordance Paper List for ARXIV IN 2024.7-2024.12
 [ARXIV’24/12]Improving Vision-Language-Action Models via Chain-of-Affordance
 
 [ARXIV’24/12]Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion
@@ -260,7 +264,7 @@
 
 [ARXIV’24/8]Learning Precise Affordances from Egocentric Videos for Robotic Manipulation
 
-# Affordance for Hand
+## Affordance for Hand
 [RSS’24]HRP: Human Affordances for Robotic Pre-Training
 
 [ECCV’24]Text2Place: Affordance-aware Text Guided Human Placement
@@ -277,7 +281,7 @@
 
 [ARXIV’24/11]GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping
 
-# VLM/LLM for Hand
+## VLM/LLM for Hand
 [ICLR’25]Do Egocentric Video-Language Models Truly Understand Hand-Object Interactions? 8 8 6 6 
 
 [ICLR’25]Modeling Fine-Grained Hand-Object Dynamics for Egocentric Video Representation Learning  6 6 6 6
@@ -296,7 +300,7 @@
 
 [24/12/11]Multi-GraspLLM: A Multimodal LLM for Multi-Hand Semantic Guided Grasp Generation
 
-# Two hand Interaction
+## Two hand Interaction
 [CVPR’24]InterHandGen: Two-Hand Interaction Generation via Cascaded Reverse Diffusion
 
 [CVPR’24]OAKINK2: A Dataset of Bimanual Hands-Object Manipulation in Complex Task Completion 
@@ -309,7 +313,7 @@
 
 [24/12/4]GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities
 
-# Paper List for Other Papers
+## Paper List for Other Papers
 [CVPR’23]ARCTIC: A dataset for dexterous bimanual handobject manipulation
 
 [ICCV’21]H2O: Two hands manipulating objects for first person interaction recognition
