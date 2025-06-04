@@ -2,7 +2,22 @@
 
 I focus on the topics in Manipulation,such as hand/human-object interaction,affordance,robot manipulation and else interesting.
 
+I mainly focus on **Hand-object interaction Synthesis (in the field of digital humans)**, and there may be omissions in papers on other areas such as dexgrasp,robot manipulation,reconstruction, recognition, and detection
+
 # Hand-Object Interaction Paper List
+
+## Paper List for 2025.2-2025.5
+[ARXIV'25/4]Separate to Collaborate: Dual-Stream Diffusion Model for Coordinated Piano Hand Motion Synthesis
+
+[ARXIV'25/3]SIGHT: Synthesizing Image-Text Conditioned and Geometry-Guided 3D Hand-Object Trajectories
+
+[ARXIV'25/3]Web2Grasp: Learning Functional Grasps from WebImages of Hand-Object Interactions
+
+[ARXIV'25/3]TIGeR: Text-Instructed Generation and Refinement for Template-Free Hand-Object Interaction
+
+[ARXIV’25/3]Towards Semantic 3D Hand-Object Interaction Generation via Functional Text Guidance
+
+[ARXIV’25/2]AnyDexGrasp: General Dexterous Grasping for Different Hands with Human-level Learning Efficiency
 
 ## Paper List for CVPR2025
 [CVPR’25]GigaHands: A Massive Annotated Dataset of Bimanual Hand Activities
