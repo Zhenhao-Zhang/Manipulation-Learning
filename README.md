@@ -1,5 +1,7 @@
 # Manipulation Learning
 
+# Our Paper [OpenHOI](https://openhoi.github.io) accepted by <font color="red">NeurIPS as Oral(77/21575,0.3%)</font>![Check](https://openhoi.github.io) it now!
+
 I focus on the topics in Manipulation,such as hand/human-object interaction,affordance,robot manipulation and else interesting.
 
 I mainly focus on **Hand-object interaction Synthesis (in the field of digital humans)**, and there may be omissions in papers on other areas such as dexgrasp,robot manipulation,reconstruction, recognition, and detection
