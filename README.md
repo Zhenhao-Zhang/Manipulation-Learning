@@ -1,6 +1,6 @@
 # Manipulation Learning
 
-# Our Paper [OpenHOI](https://openhoi.github.io) accepted by <font color="red">NeurIPS as Oral(77/21575,0.3%)</font>![Check](https://openhoi.github.io) it now!
+# Our Paper [OpenHOI](https://openhoi.github.io) accepted by <font color="red">NeurIPS as Oral(77/21575,0.3%)!</font>[Check](https://openhoi.github.io) it now!
 
 I focus on the topics in Manipulation,such as hand/human-object interaction,affordance,robot manipulation and else interesting.
 
