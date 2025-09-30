@@ -12,44 +12,77 @@ I mainly focus on **Hand-object interaction Synthesis (in the field of digital h
 
 ## Paper List for NeurIPS2025
 [NeurIPS'25 Oral]OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model
+
 [NeurIPS’25]Doodle to Detect: A Goofy but Powerful Approach to Skeleton-based Hand Gesture Recognition
+
 [NeurIPS’25]From Pose to Muscle: Multimodal Learning for Piano Hand Muscle Electromyography
+
 [NeurIPS’25]Generalizable Hand-Object Modeling from Unconstrained RGB Images via 3D Gaussians
+
 [NeurIPS’25]HO-Cap: A Capture System and Dataset for 3D Reconstruction and Pose Tracking of Hand-Object Interaction
+
 [NeurIPS’25]Learning Dense Hand Contact Estimation from Imbalanced Data
+
 [NeurIPS’25]MEgoHand: Multi-Modal Egocentric Hand-Object Interaction Motion Generation
+
 [NeurIPS’25]RAPID Hand: Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platfrom for Embodied Intelligence
+
 [NeurIPS’25]SViMo: Synchronized Diffusion for Video and Motion Generation in Hand-object Interaction Scenarios
+
 [NeurIPS’25]Towards Dynamic 3D Reconstruction of Hand-Instrument Interaction in Ophthalmic Surgery
+
 [NeurIPS’25]CADGrasp: Learning Contact and Collision Aware General Dexterous Grasping in Cluttered Scenes
+
 [NeurIPS’25]Contact Map Transfer with Conditional Diffusion Model for Generalizable Dexterous Grasp Generation
+
 [NeurIPS’25]Grasp2Grasp: Vision-Based Dexterous Grasp Translation via Schrödinger Bridges
 
 ## Paper List for ACM Multimedia2025
 [ACM Multimedia’25]Rule Meets Learning: Confidence-Aware Multi-View Fusion for Self-Supervised 3D Hand Pose Estimation
+
 [ACM Multimedia’25]EHPE: A Segmented Architecture for Enhanced Hand Pose Estimation
+
 [ACM Multimedia’25]Robust Photo-Realistic Hand Gesture Generation: from Single View to Multiple View
+
 [ACM Multimedia’25]Separate to Collaborate: Dual-Stream Diffusion Model for Coordinated Piano Hand Motion Synthesis
+
 [ACM Multimedia’25]HOPNet: Learning Hand-Object-Person Interaction Network for Hand Contact State Detection
+
 [ACM Multimedia’25]HandCraft: Tactile-Informed Hand-Object Dynamics Capture and Realistic Rendering
+
 [ACM Multimedia’25]HandSolo: A Mid-Air Hand Pose Interaction Method Based on Disentangled Degrees-of-Hand-Freedom
 
 ## Paper List for ICCV2025
 [ICCV’25]Dynamic Reconstruction of Hand-Object Interaction with Distributed Force-aware Contact Representation 
+
 [ICCV’25]MaskHand: Generative Masked Modeling for Robust Hand Mesh Reconstruction in the Wild
+
 [ICCV’25]InteractAvatar: Modeling Hand-Face Interaction in Photorealistic Avatars with Deformable Gaussians 
+
 [ICCV’25]Diffusion-based 3D Hand Motion Recovery with Intuitive Physics 
+
 [ICCV’25]MagicHOI: Leveraging 3D Priors for Accurate Hand-object Reconstruction from Short Monocular Video Clips
+
 [ICCV’25]DexH2R: A Benchmark for Dynamic Dexterous Grasping in Human-to-Robot Handover
+
 [ICCV’25]Capturing head avatar with hand contacts from a monocular video 
+
 [ICCV’25]HORT: Monocular Hand-held Objects Reconstruction with Transformers 
+
 [ICCV’25]Prior-aware Dynamic Temporal Modeling Framework for Sequential 3D Hand Pose Estimation
+
 [ICCV’25]GraspCoT: Integrating Physical Property Reasoning for 6-DoF Grasping under Flexible Language Instructions
+
 [ICCV’25]DexVLG: Dexterous Vision-Language-Grasp Model at Scale 
+
 [ICCV’25]RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping
+
 [ICCV’25]G-DexGrasp: Generalizable Dexterous Grasping Synthesis Via Part-Aware Prior Retrieval and Prior-Assisted Generation 
+
 [ICCV’25]AffordDexGrasp: Open-set Language-guided Dexterous Grasp with Generalizable-Instructive Affordance
+
 [ICCV’25]EvolvingGrasp: Evolutionary Grasp Generation via Efficient Preference Alignment 
+
 [ICCV’25]Task-Oriented Human Grasp Synthesis via Context- and Task-Aware Diffusers
 
 ## Paper List for 2025.2-2025.5
