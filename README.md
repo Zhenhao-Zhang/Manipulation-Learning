@@ -1,5 +1,3 @@
-# Manipulation Learning
-
 I mainly focus on **Hand-object interaction Synthesis (in the field of digital humans)**, and there may be omissions in papers on other areas such as dexgrasp,robot manipulation,reconstruction, recognition, and detection
 
 # Hand-Object Interaction Paper List
